@@ -1,1 +1,1 @@
-# Tour-website
+# Tour-website through simple html, css and javascript
