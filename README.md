@@ -1,1 +1,3 @@
-# Tour-website through simple html, css and javascript
+# Tour-website
+
+HTML, CSS, Javascript
